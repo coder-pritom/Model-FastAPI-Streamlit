@@ -1,0 +1,26 @@
+{
+    "0": {
+        "name": "Pritom",
+        "cls": 8,
+        "study_hours": 6.0,
+        "playing_hours": 1.3,
+        "type": "Excellent",
+        "result": "Pass"
+    },
+    "1": {
+        "name": "Pritom",
+        "cls": 8,
+        "study_hours": 6.0,
+        "playing_hours": 1.3,
+        "type": "Excellent",
+        "result": "Pass"
+    },
+    "2": {
+        "name": "Pritom",
+        "cls": 9,
+        "study_hours": 6.0,
+        "playing_hours": 1.3,
+        "type": "Excellent",
+        "result": "Pass"
+    }
+}

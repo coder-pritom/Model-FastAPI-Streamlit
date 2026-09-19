@@ -1,0 +1,10 @@
+import json
+
+
+def load_data():
+    with open('database/database.json', 'r') as file:
+        return json.load(file)
+    
+def save_data(data):
+    with open('database/database.json', 'w') as file:
+        json.dump(data,file)
